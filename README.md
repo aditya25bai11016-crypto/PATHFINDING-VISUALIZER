@@ -103,6 +103,11 @@ Step 3 : Run Project
 python main.py
 
 SCREENSHOTS :
+1.Grid Setup :
+<img width="975" height="1027" alt="image" src="https://github.com/user-attachments/assets/9c67faeb-dbba-4704-86cc-3c2fcf86aa18" />
+2. Final Path Output :
+<img width="975" height="1026" alt="image" src="https://github.com/user-attachments/assets/cb29bbb4-d595-4ffe-891e-276be1780be9" />
+
 
 Grid Setup :
 WhatsApp Image 2026-03-25 at 9 59 00 PM
