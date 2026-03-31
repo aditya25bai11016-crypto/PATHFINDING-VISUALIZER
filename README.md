@@ -92,8 +92,6 @@ STEPS TO INSTALL :
 
 Step 1 : Clone Repository
 
-git clone https://github.com/namah25bai10235-rgb/Pathfinding-Visualizer.git cd pathfinding-visualizer
-
 Step 2 : Install Dependencies
 
 pip install pygame
